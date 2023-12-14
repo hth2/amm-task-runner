@@ -2,7 +2,8 @@ This is a poor-man rake alternative for scala scripts (ammonite).
 
 ## Getting started
 - download 2 files `TaskRunner.sc` and `tasks.sc` to wherever desired, for example to a project dir
-- edit `tasks.sc` to add the real tasks.
+- edit `tasks.sc` to add the real tasks. It's very similar to Rakefile, so if
+    you know rake you will feel right at home.
 
 ## Usage example
 ```bash
